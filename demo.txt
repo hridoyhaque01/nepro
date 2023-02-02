@@ -1,0 +1,26 @@
+font family ====>
+
+Roboto = Reg ,med,
+Lato = reg medium,bold,semi
+
+
+
+icon
+
+font awesome
+
+pe icon
+
+
+color ====>
+
+dark : #333333
+ash : #8e8e8e
+white: #fff;
+
+
+
+30px = logo - sec-title
+16px = cmn
+60px
+18px = sub-itle,gallery-title
